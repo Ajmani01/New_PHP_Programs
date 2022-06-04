@@ -8,6 +8,7 @@
 </head>
 <body>
     <?php
+    echo"kirti vardhan ajmani";
     if(isset($_COOKIE($_COOKIE_name)))
     {
         echo"Cookie is created";
